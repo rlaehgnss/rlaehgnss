@@ -31,7 +31,7 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 
 
 
-[![CodeForces Profile](https://cf.leed.at?id={rlaehgnss})](https://codeforces.com/profile/{rlaehgnss})
+[![CodeForces Profile](https://cf.leed.at?id=rlaehgnss)](https://codeforces.com/profile/rlaehgnss)
 
 
 
