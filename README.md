@@ -18,7 +18,7 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/java-7F52FF?style=for-the-badge&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenJDK-FFFFFF?style=for-the-badge&logo=java&logoColor=white"/></a>
 ### Projects
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hun0108)](https://solved.ac/hun0108)
