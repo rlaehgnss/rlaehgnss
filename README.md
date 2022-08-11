@@ -21,9 +21,11 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
 
 
-### 📝Projects
+### 📝Activities
 |Name|Description|Date|
-|----|-----|----|
+|:----:|:-----:|:----:|
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hun0108)](https://solved.ac/hun0108)
 
