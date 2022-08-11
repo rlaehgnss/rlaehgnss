@@ -9,7 +9,7 @@ I love competitive programming, algorithms, and data structures.
 I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interested in app/web development and blockchain.
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{hun0108})
 
 
 <!--
