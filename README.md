@@ -10,8 +10,8 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 
 
 ### 🛠Tech Stack
-### <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 ### Projects
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hun0108)](https://solved.ac/hun0108)
