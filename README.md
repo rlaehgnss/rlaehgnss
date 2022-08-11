@@ -28,20 +28,20 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 ### 🏅Awards
 #### 2021
 USA Computing Olympiad (USACO) : Silver Qualified  
-Korea Olympiad in Informatics (KOI) : Silver Medal <\n>
-ICT Award Korea : 이산수학 부문 동상, 알고리즘 부문 장려상 <\n>
-Nexon Youth Programming Challenge : 예선 특별상 (Top 500) \n
-World Mathematics Team Competition Korea (WMTC) : 8th place \n
-Korean Young Physicists' Tournament (KYPT) : 14th place \n
-\n
+Korea Olympiad in Informatics (KOI) : Silver Medal  
+ICT Award Korea : 이산수학 부문 동상, 알고리즘 부문 장려상  
+Nexon Youth Programming Challenge : 예선 특별상 (Top 500)  
+World Mathematics Team Competition Korea (WMTC) : 8th place  
+Korean Young Physicists' Tournament (KYPT) : 14th place  
+  
 #### 2022
-USA Computing Olympiad (USACO) : Gold Qualified \n
-Korea Olympiad in Informatics (KOI) : Bronze Medal \n
-ICT Award Korea : 알고리즘 부문 동상 \n
-CREDECA Korea Regional (한국학생창의력올림픽) : 과학기술정보통신부 장관상 \n
-SAGE Korea : 2nd Place (World Final Qualified) \n
-Korea Code Fair (KCF) SW공모전 : In Progress \n
-\n
+USA Computing Olympiad (USACO) : Gold Qualified  
+Korea Olympiad in Informatics (KOI) : Bronze Medal  
+ICT Award Korea : 알고리즘 부문 동상  
+CREDECA Korea Regional (한국학생창의력올림픽) : 과학기술정보통신부 장관상  
+SAGE Korea : 2nd Place (World Final Qualified)  
+Korea Code Fair (KCF) SW공모전 : In Progress  
+  
 ### 📚Camps
 2022 International Olympiad in Informatics Summer Camp (국제정보올림피아드 교육생 여름학교) : 7/26 ~ 8/4
 
