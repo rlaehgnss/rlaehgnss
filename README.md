@@ -9,8 +9,8 @@ I love competitive programming, algorithms, and data structures.
 I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interested in app/web development and blockchain.
 
 
-### 🛠Stack
-
+### 🛠Tech Stack
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 
 ### Projects
 
