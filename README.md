@@ -27,7 +27,7 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 
 ### 🏅Awards
 #### 2021
-USA Computing Olympiad (USACO) : Silver Qualified
+USA Computing Olympiad (USACO) : Silver Qualified <\
 Korea Olympiad in Informatics (KOI) : Silver Medal
 ICT Award Korea : 이산수학 부문 동상, 알고리즘 부문 장려상
 Nexon Youth Programming Challenge : 예선 특별상 (Top 500)
