@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hello, I'm Dohun Kim.
+
+I'm a high school student at Hankuk Academy of Foreign studies.
+
+I love competitive programming, algorithms, and data structures. 
+
+I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interested in app/web development, blockchain, and data management.
+
 <!--
 **rlaehgnss/rlaehgnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
