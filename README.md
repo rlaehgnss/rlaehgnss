@@ -31,15 +31,12 @@ USA Computing Olympiad (USACO) : Silver Qualified
 Korea Olympiad in Informatics (KOI) : Silver Medal  
 ICT Award Korea : 이산수학 부문 동상, 알고리즘 부문 장려상  
 Nexon Youth Programming Challenge : 예선 특별상 (Top 500)  
-World Mathematics Team Competition Korea (WMTC) : 8th place  
-Korean Young Physicists' Tournament (KYPT) : 14th place  
+
   
 #### 2022
 USA Computing Olympiad (USACO) : Gold Qualified  
 Korea Olympiad in Informatics (KOI) : Bronze Medal  
 ICT Award Korea : 알고리즘 부문 동상  
-CREDECA Korea Regional (한국학생창의력올림픽) : 과학기술정보통신부 장관상  
-SAGE Korea : 2nd Place (World Final Qualified)  
 Korea Code Fair (KCF) SW공모전 : In Progress  
   
 ### 📚Camps
