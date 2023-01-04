@@ -30,14 +30,12 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 USA Computing Olympiad (USACO) : Silver Qualified  
 Korea Olympiad in Informatics (KOI) : Silver Medal  
 ICT Award Korea : 이산수학 부문 동상, 알고리즘 부문 장려상  
-Nexon Youth Programming Challenge : 예선 특별상 (Top 500)  
-
   
 #### 2022
 USA Computing Olympiad (USACO) : Gold Qualified  
 Korea Olympiad in Informatics (KOI) : Bronze Medal  
 ICT Award Korea : 알고리즘 부문 동상  
-Korea Code Fair (KCF) SW공모전 : In Progress  
+  
   
 ### 📚Camps
 2022 International Olympiad in Informatics Summer Camp (국제정보올림피아드 교육생 여름학교) : 7/26 ~ 8/4
