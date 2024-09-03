@@ -2,8 +2,6 @@
 
 Hello, I'm Dohun Kim.
 
-I'm a high school student at Hankuk Academy of Foreign studies.
-
 I love competitive programming, algorithms, and data structures. 
 
 I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interested in app/web development and blockchain.
@@ -24,22 +22,6 @@ I mainly do CP(Competitive Programming) & PS(Problem Solving), but also interest
 ### 📝Activities
 |Name|Description|Date|
 |:----:|:-----:|:----:|
-
-### 🏅Awards
-#### 2021
-USA Computing Olympiad (USACO) : Silver Qualified  
-Korea Olympiad in Informatics (KOI) : Silver Medal  
-ICT Award Korea : 이산수학 부문 동상, 알고리즘 부문 장려상  
-  
-#### 2022
-USA Computing Olympiad (USACO) : Gold Qualified  
-Korea Olympiad in Informatics (KOI) : Bronze Medal  
-ICT Award Korea : 알고리즘 부문 동상  
-  
-  
-### 📚Camps
-2022 International Olympiad in Informatics Summer Camp (국제정보올림피아드 교육생 여름학교) : 7/26 ~ 8/4
-  
   
 ### Baekjoon Online Judge (Solved.ac handle : hun0108)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hun0108)](https://solved.ac/hun0108)
